@@ -1,0 +1,25 @@
+body {
+  background-image: url('cub.jpg');
+  background-size: 100%;
+}
+h1 {
+    color: white ;
+    text-align: center;
+    text-transform:  uppercase ;
+}
+
+/* ci dessous une couleur avec sa transparence */
+p {
+background-color: rgba(20, 24, 243, 0.692);
+text-align: center;
+  outline: solid;
+box-sizing: border-box;
+width: 100%;
+color: rgb(0, 0, 0);
+}
+
+
+div {
+  text-align: center;
+}
+
